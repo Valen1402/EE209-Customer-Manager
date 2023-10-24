@@ -1,6 +1,3 @@
-/**********************
- * EE209 Assignment 3 *
- **********************/
 /* testclient.c */
 
 #include <stdio.h>
