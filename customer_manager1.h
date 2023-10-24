@@ -1,5 +1,5 @@
-#ifndef CUSTOMER_MANAGER_H
-#define CUSTOMER_MANAGER_H
+#ifndef CUSTOMER_MANAGER1_H
+#define CUSTOMER_MANAGER1_H
 
 /* customer_manager1.h */
 
@@ -37,4 +37,4 @@ int GetPurchaseByName(DB_T d, const char* name);
    and return the sum of all fp function calls */
 int GetSumCustomerPurchase(DB_T d, FUNCPTR_T fp);
 
-#endif /* end of CUSTOMER_MANAGER_H */
+#endif /* end of CUSTOMER_MANAGER1_H */
