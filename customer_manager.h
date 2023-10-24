@@ -1,14 +1,10 @@
 #ifndef CUSTOMER_MANAGER_H
 #define CUSTOMER_MANAGER_H
 
-/**********************
- * EE209 Assignment 3 *
- **********************/
 /* customer_manager.h */
 
 /* forward type definition for DB_T */
-/* "struct DB" should be defined in customer_manager1.c,
-    customer_manager2.c, and customer_manager3.c */
+/* "struct DB" defined in customer_manager1.c, customer_manager2.c */
 typedef struct DB* DB_T;
 
 /* function pointer type definition */
