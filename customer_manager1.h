@@ -1,7 +1,7 @@
 #ifndef CUSTOMER_MANAGER_H
 #define CUSTOMER_MANAGER_H
 
-/* customer_manager.h */
+/* customer_manager1.h */
 
 /* forward type definition for DB_T */
 /* "struct DB" defined in customer_manager1.c, customer_manager2.c */
